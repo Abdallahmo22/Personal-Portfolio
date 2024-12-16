@@ -141,7 +141,7 @@ header nav .nav-links a.active{
 }
 .hero .content p{
     color: #e4e4e4;
-    letter-spacing: 5px;
+/*     letter-spacing: 5px; */
     text-shadow: 0 0 100px #e4e4e4,
     0 0 20px #e4e4e4, 
     0 0 40px #e4e4e4,
@@ -152,7 +152,7 @@ header nav .nav-links a.active{
 }
 .hero .content p span{
     color: #ff9914;
-    letter-spacing: 5px;
+/*     letter-spacing: 5px; */
     text-shadow: 0 0 100px #ff9914,
     0 0 20px #ff9914, 
     0 0 40px #ff9914,
